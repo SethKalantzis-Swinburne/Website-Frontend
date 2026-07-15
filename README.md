@@ -1,4 +1,9 @@
-"# SWE30003_Assignment_03" 
+##Assignment for Swinburne SWE30003##
+Contributors:
+- Seth Kalantzis
+- Luke Magnuson
+- Kaine Price
+
 
 Setup -
 
