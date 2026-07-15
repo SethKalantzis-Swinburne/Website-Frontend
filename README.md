@@ -1,4 +1,4 @@
-##Assignment for Swinburne SWE30003##
+## Assignment for Swinburne SWE30003
 Contributors:
 - Seth Kalantzis
 - Luke Magnuson
